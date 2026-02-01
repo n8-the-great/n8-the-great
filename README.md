@@ -4,6 +4,8 @@
 
 #### I’m focused on network administration, security, and building reliable systems. I hold a CompTIA Security+ certification and an AAS in Network Administration & Support.  I also graduated from HackReactor, where I developed strong full‑stack engineering skills.
 
+I am currently working on a homelab to refresh and build on what I know on networks and security.
+
 ## 🔧 Technical Focus Areas
 ### Networking & Security
 + Network administration & troubleshooting
